@@ -1,1 +1,0 @@
-# kates-plugin-for-woocommerce
